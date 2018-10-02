@@ -20,5 +20,7 @@ become supported in the future - at least some version of it.
 For reference:
 
 XLR8: https://www.aloriumtech.com/xlr8
+
 Snō: https://www.aloriumtech.com/sno
+
 PlatformIO: https://platformio.org/
